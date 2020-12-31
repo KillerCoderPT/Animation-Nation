@@ -4625,12 +4625,18 @@ let cards = [
     imageLink: './Art/Sweet_street/animation-gif.gif',
     author: 'meni-avitan',
     githubLink: 'https://github.com/meniAvitan/Animation-Nation.git'
-  }
+  },
   {
     pageLink: './Art/Joy/nithin-animation/index.html',
     imageLink: './Art/Joy/triangle/triangle.gif',
     author: 'Nithin',
     githubLink: 'https://github.com/Nithin6252-reddy'
+  },
+  {
+    pageLink: './Art/kc-loader/index.html',
+    imageLink: './Art/kc-loader/kc-loader.gif',
+    author: 'KillerCoderPT',
+    githubLink: 'https://github.com/KillerCoderPT'
   }
 ];
 
